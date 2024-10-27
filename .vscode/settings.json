@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "drivers.h": "c",
+        "tl_common.h": "c",
+        "gpio_8258.h": "c",
+        "u_printf.h": "c",
+        "app_config.h": "c",
+        "driver_8258.h": "c",
+        "pwm.h": "c",
+        "gpio.h": "c",
+        "gpio_default_8258.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "ranges": "c",
+        "span": "c",
+        "voltages.h": "c",
+        "audio.h": "c",
+        "adc.h": "c",
+        "rtd.h": "c"
+    }
+}
